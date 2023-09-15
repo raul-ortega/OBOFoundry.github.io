@@ -23,6 +23,9 @@ preferredPrefix: ONTOAVIDA
 products:
 - id: ontoavida.owl
 - id: ontoavida.obo
+publications:
+  - id: https://doi.org/10.1038/s41597-023-02514-3 
+    title: "Ortega, R., Wulff, E., Fortuna, M.A. (2023). Ontology for the Avida digital evolution platform. Scientific Data, 10: 608"
 repository: https://gitlab.com/fortunalab/ontoavida
 tags:
 - digital evolution
